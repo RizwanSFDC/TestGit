@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to Hyderabd!!";
+echo "Welcome 2 Hyderabd!!";
 ?>
